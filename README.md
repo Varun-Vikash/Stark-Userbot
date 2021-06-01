@@ -1,4 +1,4 @@
-## > *Stark Userbot* 🔥
+## *Stark Userbot* 🔥
 
 <p  align="center"> <img src="https://github.com/Varun-Vikash/Stark-Userbot/blob/main/logo.png">
 
